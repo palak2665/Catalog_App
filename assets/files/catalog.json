@@ -1,0 +1,51 @@
+{
+    "products" : [
+        {
+            "color": "#33505a",
+                "desc": "Apple Iphone 12th Generation",
+                "name": "iphone 12 pro",
+                "id": 1,
+                "price": 599,
+                "image":
+                    "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-12-pro/iphone-12-pro-pacific-blue.jpg"
+        },
+        
+        {
+            "color": "#33505a",
+                "desc": "Apple Iphone 12th Generation",
+                "name": "iphone 12",
+                "id": 2,
+                "price": 599,
+                "image":
+                    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-storage-select-202207-purple?wid=2560&hei=1440&fmt=jpeg&qlt=95&.v=1662150165312"
+        },
+        
+        {
+            "color": "#33505a",
+                "desc": "Apple Iphone 12th Generation",
+                "name": "iphone 12 pro",
+                "id": 3,
+                "price": 599,
+                "image":
+                    "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-12-pro/iphone-12-pro-pacific-blue.jpg"
+        },
+        {
+            "color": "#33505a",
+                "desc": "Samsung Calaxy S22 Ultra 5G",
+                "name": "Samsung Calaxy S22",
+                "id": 4,
+                "price": 599,
+                "image":
+                    "https://images-eu.ssl-images-amazon.com/images/I/41QPv5h1veL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "color": "#33505a",
+                "desc": "Google Pixel 6 Pro",
+                "name": "Google Pixel 6 Pro",
+                "id": 5,
+                "price": 599,
+                "image":
+                    "https://m.media-amazon.com/images/I/71ee+5V4ZRL._SX522_.jpg"
+        }
+    ]
+}
