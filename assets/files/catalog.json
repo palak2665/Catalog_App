@@ -17,22 +17,22 @@
                 "id": 2,
                 "price": 599,
                 "image":
-                    "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-storage-select-202207-purple?wid=2560&hei=1440&fmt=jpeg&qlt=95&.v=1662150165312"
+                    "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662424194/Croma%20Assets/Communication/Mobiles/Images/234253_tumty3.png/mxw_1440,f_auto"
         },
         
         {
             "color": "#33505a",
-                "desc": "Apple Iphone 12th Generation",
-                "name": "iphone 12 pro",
+                "desc": "Apple Iphone 11th Generation",
+                "name": "iphone 11 pro",
                 "id": 3,
                 "price": 599,
                 "image":
-                    "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-12-pro/iphone-12-pro-pacific-blue.jpg"
+                    "https://reboxtech.com/wp-content/uploads/2022/02/iphone-11-pro-gold.jpg"
         },
         {
             "color": "#33505a",
-                "desc": "Samsung Calaxy S22 Ultra 5G",
-                "name": "Samsung Calaxy S22",
+                "desc": "Samsung Galaxy S22 Ultra 5G",
+                "name": "Samsung Galaxy S22",
                 "id": 4,
                 "price": 599,
                 "image":
