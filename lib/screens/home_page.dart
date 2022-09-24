@@ -5,7 +5,7 @@ import 'package:flutter_application_1/models/cart.dart';
 import 'dart:convert';
 import 'package:flutter_application_1/models/catalog.dart';
 import 'package:velocity_x/velocity_x.dart';
-import 'package:http/http.dart' as http;
+// import 'package:http/http.dart' as http;
 import '../core/store.dart';
 import '../utils/routes.dart';
 import '../widgets/home_widgets/catalog_header.dart';
